@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/omar-mazen/omar-mzen/blob/main/tenor.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
 
 ###
 
@@ -52,6 +52,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/omar-mazen/omar-mazen/output/snake.svg" alt="Snake animation" />
-
-###
+![Snake animation](https://github.com/omar-mazen/omar-mzen/blob/output/github-contribution-grid-snake.svg)
