@@ -52,4 +52,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/omar-mazen/omar-mzen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/omar-mazen/omar-mazen/blob/output/snake.svg)
