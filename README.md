@@ -12,16 +12,15 @@
 
 <table align="center">
   <tr>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" alt="stats graph" style="max-height: 200px; width: 100%;" />
+    <td align="center" width="45%">
+      <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" alt="stats graph" height="200" />
     </td>
     <td width="10%"></td> <!-- Space between -->
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" alt="top languages" style="max-height: 200px; width: 100%;" />
+    <td align="center" width="45%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" alt="top languages" height="200" />
     </td>
   </tr>
 </table>
-
 
 
 
