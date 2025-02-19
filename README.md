@@ -1,5 +1,15 @@
-<h2 align="left">Hi 👋! My name is Omar and I'm a front-end and cross-platform developer.</h2>
+<h1 align="center">Hi 👋, I'm omar mazen</h1>
+<h3 align="center">frontend and cross platform developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-mazen&label=Profile%20views&color=0e75b6&style=flat" alt="omar-mazen" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-mazen" alt="omar-mazen" /></a> </p>
+
+- 🔭 I’m currently working on **E-commerce Clothing App project**
+
+- 🌱 I’m currently learning **Next js**
+
+- 📫 How to reach me **omar.mazen.mohammed@gmail.com**
 ###
 
 <div align="center">
