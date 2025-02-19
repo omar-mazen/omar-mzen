@@ -12,14 +12,15 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" width="100%"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top languages" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top languages" width="100%"/>
     </td>
   </tr>
 </table>
+
 
 
 
