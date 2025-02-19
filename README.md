@@ -10,20 +10,17 @@
 - 📫 How to reach me **omar.mazen.mohammed@gmail.com**
 ###
 
-<div align="center" style="
-    display: flex;
-    justify-content: space-around;
-">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=omar-mazen&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-    alt="stats graph" 
-    style="height: 150px;"/>
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&locale=en&layout=compact&theme=dracula" 
-    alt="top languages" 
-    style="height: 150px;"/>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" alt="stats graph" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" alt="top languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 
 
