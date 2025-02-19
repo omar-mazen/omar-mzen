@@ -9,18 +9,11 @@
 
 - 📫 How to reach me **omar.mazen.mohammed@gmail.com**
 ###
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="48%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" style="max-height: 100%; width: 100%;" />
-    </td>
-    <td width="4%"></td> <!-- Space between -->
-    <td align="center" width="48%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" style="max-height: 100%; width: 100%;" />
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="display: flex; justify-content: space-around; align-items: stretch; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" style="max-height: 100%; width: 45%;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" style="max-height: 100%; width: 45%;" />
+</div>
 
 
 
