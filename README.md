@@ -15,13 +15,13 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=omar-mazen&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
       alt="stats graph" 
-      style="width: 100%; height: auto;" />
+      style="width: 50%; height: auto;" />
   </div>
   <div style="flex: 1; min-width: 100px; padding: 5px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&locale=en&layout=compact&theme=dracula" 
       alt="top languages" 
-      style="width: 100%; height: auto;" />
+      style="width: 50%; height: auto;" />
   </div>
 </div>
 
