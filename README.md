@@ -10,7 +10,7 @@
 - 📫 How to reach me **omar.mazen.mohammed@gmail.com**
 ###
 
-<table align="center">
+<table align="center" border=0>
   <tr>
     <td align="center" width="48%" valign="center">
       <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" style="max-height: 100%; width: 100%;" />
