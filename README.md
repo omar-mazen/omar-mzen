@@ -16,7 +16,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" style="max-height: 100%; width: 100%;" />
     </td>
     <td width="4%"></td> <!-- Space between -->
-    <td align="center" width="48%" valign="top">
+    <td align="center" width="48%" valign="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" style="max-height: 100%; width: 100%;" />
     </td>
   </tr>
