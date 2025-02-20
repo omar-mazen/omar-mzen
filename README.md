@@ -20,9 +20,7 @@
 
 
 <br/>
-<h3 align=center>
-Technologies & Tools I Use  
-</h3>
+###Technologies & Tools I Use  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
