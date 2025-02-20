@@ -54,5 +54,6 @@
 
 
 
-
+<p align="center" width="100%">
 ![Snake animation](https://github.com/omar-mazen/omar-mazen/blob/output/snake.svg)
+</p>
