@@ -12,8 +12,8 @@
 
 ### 📊 GitHub Stats  
 <div align="center" style="display: flex; justify-content: space-around; align-items: stretch; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" height="190px" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" height="190px width="45%" lyout="compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" height="190px" lyout="compact"/>
 </div>
 
 
