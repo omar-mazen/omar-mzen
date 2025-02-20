@@ -17,7 +17,7 @@
 
 <img align="right" height="150" src="https://github.com/omar-mazen/omar-mzen/blob/main/tenor.gif" />
 
-### 🛠️ Technologies & Tools I Use  
+### Technologies & Tools I Use  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 📱 Connect with Me  
+### Connect with Me  
 <div align="left">
   <a href="https://www.linkedin.com/in/omar-mazen/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo"  />
