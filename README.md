@@ -54,7 +54,6 @@
 
 
 
-<br clear="both">
 
-![Snake animation](https://github.com/omar-mazen/omar-mazen/blob/output/snake.svg)
+<img align="left" height="150" src="(https://github.com/omar-mazen/omar-mazen/blob/output/snake.svg" />
 <img align="right" height="150" src="https://github.com/omar-mazen/omar-mzen/blob/main/tenor.gif" />
