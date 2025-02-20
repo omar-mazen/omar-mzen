@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Next.js**  
 - 📫 How to reach me **omar.mazen.mohammed@gmail.com**  
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 <div align="center" style="display: flex; justify-content: space-around; align-items: stretch; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" style="max-height: 100%; width: 45%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" style="max-height: 100%; width: 45%;" />
@@ -17,7 +17,7 @@
 
 <img align="right" height="150" src="https://github.com/omar-mazen/omar-mzen/blob/main/tenor.gif" />
 
-### 🛠️ Technologies & Tools I Use  
+### Technologies & Tools I Use  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 📱 Connect with Me  
+### Connect with Me  
 <div align="left">
   <a href="https://www.linkedin.com/in/omar-mazen/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo"  />
