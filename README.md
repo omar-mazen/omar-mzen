@@ -14,6 +14,7 @@
 </div>
 
 <br>
+
 ### 🛠️ Technologies & Tools I Use  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
@@ -40,6 +41,7 @@
 <p align="right">
   <img src="https://github.com/omar-mazen/omar-mzen/blob/main/tenor.gif" height="150" />
 </p>
+
 
 <br>
 
