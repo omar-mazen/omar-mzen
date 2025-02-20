@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&layout=compact&theme=dracula" style="max-height: 100%; width: 45%;" />
 </div>
 
----
+
 
 <img align="right" height="150" src="https://github.com/omar-mazen/omar-mzen/blob/main/tenor.gif" />
 
@@ -42,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
 
----
 
 ### Connect with Me  
 <div align="left">
@@ -54,7 +53,7 @@
   </a>
 </div>
 
----
+
 
 <br clear="both">
 
