@@ -3,9 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-mazen&label=Profile%20views&color=0e75b6&style=flat" alt="omar-mazen" /> </p>
 
+
+<br/>
+<br/>
+
 - 🔭 I’m currently working on **E-commerce Clothing App project**  
 - 🌱 I’m currently learning **Next.js**  
 - 📫 How to reach me **omar.mazen.mohammed@gmail.com**  
+
+
+<br/>
+<br/>
 
 ### 📊 GitHub Stats  
 <div align="center" style="display: flex; justify-content: space-around; align-items: stretch; gap: 20px;">
