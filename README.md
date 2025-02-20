@@ -53,4 +53,6 @@
 </div>
 
 
-![Snake animation](https://github.com/omar-mazen/omar-mazen/blob/output/snake.svg)
+<p align="center">
+  <img src="https://github.com/omar-mazen/omar-mazen/blob/output/snake.svg" />
+</p>
