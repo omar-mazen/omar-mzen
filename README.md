@@ -3,16 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-mazen&label=Profile%20views&color=0e75b6&style=flat" alt="omar-mazen" /> </p>
 
-
-<br/>
-<br/>
-
 - 🔭 I’m currently working on **E-commerce Clothing App project**  
 - 🌱 I’m currently learning **Next.js**  
 - 📫 How to reach me **omar.mazen.mohammed@gmail.com**  
 
 
-<br/>
 <br/>
 
 ### 📊 GitHub Stats  
@@ -24,7 +19,6 @@
 
 
 
-<br/>
 <br/>
 
 ### Technologies & Tools I Use  
@@ -53,7 +47,6 @@
 </div>
 
 <br/>
-<br/>
 
 ### Connect with Me  
 <div align="left">
@@ -65,7 +58,6 @@
   </a>
 </div>
 
-<br/>
 <br/>
 
 
