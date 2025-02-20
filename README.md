@@ -10,7 +10,8 @@
 
 <br/>
 
-### 📊 GitHub Stats  
+### GitHub Stats  
+<br/>
 <div align="center" style="display: flex; justify-content: space-around; align-items: stretch; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&count_private=true&theme=dracula" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&show_icons=true&theme=dracula&layout=compact" height="180px" />
@@ -22,7 +23,7 @@
 <br/>
 
 ### Technologies & Tools I Use  
-
+<br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
