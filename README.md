@@ -16,6 +16,8 @@
 
 
 
+<br/>
+<br/>
 ### Technologies & Tools I Use  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -41,7 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
 
-
+<br/>
+<br/>
 ### Connect with Me  
 <div align="left">
   <a href="https://www.linkedin.com/in/omar-mazen/" target="_blank">
@@ -51,6 +54,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="HackerRank logo"  />
   </a>
 </div>
+<br/>
+<br/>
 
 
 <p align="center">
